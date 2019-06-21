@@ -1,1 +1,1 @@
-! [image of nature] (robert-baker-1629171-unsplash.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
