@@ -1,1 +1,1 @@
-[DNS YouTube] (https://www.youtube.com/channel/UCc1QvkNHCobeXufCxQgQAPQ)
+[DNS YouTube](https://www.youtube.com/channel/UCc1QvkNHCobeXufCxQgQAPQ)
